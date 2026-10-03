@@ -1,6 +1,5 @@
 import javax.swing.JOptionPane;
 
-
 public class bsixthJava{
     public static void main (String[] args){
 

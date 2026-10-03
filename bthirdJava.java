@@ -6,8 +6,8 @@ public class bthirdJava{
     public static void main (String[] args){
         BufferedReader dataln = new BufferedReader(new InputStreamReader(System.in));
 
-        String name =""; System.out.print("Please enter Your Name: ");
-
+        String name = ""; System.out.print("Please enter Your Name: ");
+        
         try{
             name = dataln.readLine();
         }catch( IOException e){
