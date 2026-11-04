@@ -9,7 +9,7 @@ public class PayrollScanner {
             System.out.print("Enter hourly pay rate: Php ");
             double rate = inputDevice.nextDouble();
 
-            System.out.print("Enter hours worked: Php ");
+            System.out.print("Enter hours worked:  ");
             double hours = inputDevice.nextDouble();
 
             double grossPay = hours * rate;
